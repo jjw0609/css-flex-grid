@@ -9,7 +9,16 @@
 	<style>
 		.flex-container {
 			display: flex;
-			/* display: inline-flex; */
+			flex-direction: column;
+		}
+
+		@media(min-width: 600px) {
+			.flex-container {
+				flex-direction: row;
+			}
+			.flex-item {
+				flex: 1;
+			}
 		}
 	</style>
 </head>
