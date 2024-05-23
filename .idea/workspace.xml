@@ -29,30 +29,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/project/css-flex-grid/02-flex-ui",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/project/css-flex-grid/02-flex-ui&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\project\css-flex-grid\02-flex-ui" />
       <recent name="C:\project\css-flex-grid\01-flex-basic" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ui-03-bullet.html">
-    <configuration name="01-display.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/01-flex-basic/01-display.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.ui-04-message.html">
     <configuration name="08-flex-grow.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/01-flex-basic/08-flex-grow.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -65,13 +62,16 @@
     <configuration name="ui-03-bullet.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/02-flex-ui/ui-03-bullet.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="ui-04-message.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/02-flex-ui/ui-04-message.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ui-04-message.html" />
         <item itemvalue="JavaScript Debug.ui-03-bullet.html" />
         <item itemvalue="JavaScript Debug.ui-02-search.html" />
         <item itemvalue="JavaScript Debug.ui-01-menu.html" />
         <item itemvalue="JavaScript Debug.08-flex-grow.html" />
-        <item itemvalue="JavaScript Debug.01-display.html" />
       </list>
     </recent_temporary>
   </component>
@@ -88,11 +88,23 @@
       <workItem from="1714992378163" duration="90000" />
       <workItem from="1714992487735" duration="9076000" />
       <workItem from="1715604438910" duration="1392000" />
-      <workItem from="1715695421235" duration="3874000" />
+      <workItem from="1715695421235" duration="5140000" />
+      <workItem from="1716470354074" duration="712000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
