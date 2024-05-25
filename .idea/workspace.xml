@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e290d65-6ffa-40cf-a66f-2e1fb1dd56c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/02-flex-ui/ui-06-modal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,7 @@
       <workItem from="1715604438910" duration="1392000" />
       <workItem from="1715695421235" duration="5140000" />
       <workItem from="1716470354074" duration="1105000" />
-      <workItem from="1716478112797" duration="617000" />
+      <workItem from="1716478112797" duration="925000" />
     </task>
     <servers />
   </component>
