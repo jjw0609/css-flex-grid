@@ -48,10 +48,7 @@
       <recent name="C:\project\css-flex-grid\01-flex-basic" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ui-page-1.html">
-    <configuration name="ui-03-bullet.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/02-flex-ui/ui-03-bullet.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.ui-page-2.html">
     <configuration name="ui-04-message.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/02-flex-ui/ui-04-message.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -61,16 +58,32 @@
     <configuration name="ui-page-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/05-grid-page/ui-page-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="ui-page-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/05-grid-page/ui-page-2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="ui-page.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/03-flex-page/ui-page.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="css-flex-grid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="css-flex-grid" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ui-page-2.html" />
         <item itemvalue="JavaScript Debug.ui-page-1.html" />
         <item itemvalue="JavaScript Debug.ui-page.html" />
         <item itemvalue="JavaScript Debug.ui-05-users.html" />
         <item itemvalue="JavaScript Debug.ui-04-message.html" />
-        <item itemvalue="JavaScript Debug.ui-03-bullet.html" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +109,9 @@
       <workItem from="1717662015610" duration="2186000" />
       <workItem from="1717848037468" duration="1944000" />
       <workItem from="1717942699313" duration="1826000" />
-      <workItem from="1718373141218" duration="1945000" />
+      <workItem from="1718373141218" duration="1984000" />
+      <workItem from="1718455783509" duration="34000" />
+      <workItem from="1718455846912" duration="752000" />
     </task>
     <servers />
   </component>
