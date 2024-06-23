@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e290d65-6ffa-40cf-a66f-2e1fb1dd56c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06-grid-samples/images/cookie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-grid-samples/images/cookie2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/project/css-flex-grid/06-grid-samples/images",
+    "last_opened_file_path": "C:/project/css-flex-grid",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,20 +49,20 @@
       <recent name="C:\project\css-flex-grid\01-flex-basic" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.sample-1.html">
+  <component name="RunManager" selected="JavaScript Debug.sample-3.html">
     <configuration name="sample-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/06-grid-samples/sample-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ui-05-users.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/02-flex-ui/ui-05-users.html" useBuiltInWebServerPort="true">
+    <configuration name="sample-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/sample-2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="sample-3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/06-grid-samples/sample-3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ui-page-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/05-grid-page/ui-page-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ui-page-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/05-grid-page/ui-page-2.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="ui-page.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-flex-grid/03-flex-page/ui-page.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
@@ -82,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.sample-3.html" />
+        <item itemvalue="JavaScript Debug.sample-2.html" />
         <item itemvalue="JavaScript Debug.sample-1.html" />
         <item itemvalue="JavaScript Debug.ui-page-2.html" />
         <item itemvalue="JavaScript Debug.ui-page-1.html" />
-        <item itemvalue="JavaScript Debug.ui-page.html" />
-        <item itemvalue="JavaScript Debug.ui-05-users.html" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +114,8 @@
       <workItem from="1718455783509" duration="34000" />
       <workItem from="1718455846912" duration="1530000" />
       <workItem from="1718548169186" duration="369000" />
-      <workItem from="1718713931319" duration="1030000" />
+      <workItem from="1718713931319" duration="4740000" />
+      <workItem from="1719148459009" duration="758000" />
     </task>
     <servers />
   </component>
